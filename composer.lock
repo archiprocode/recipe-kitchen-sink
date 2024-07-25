@@ -6728,12 +6728,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/archiprocode/silverstripe-framework.git",
-                "reference": "732d8f9d897a136550718a70ed0203812c61fa16"
+                "reference": "30ced2afb5196f448d17f49d20c2aff4c5f5c798"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/archiprocode/silverstripe-framework/zipball/732d8f9d897a136550718a70ed0203812c61fa16",
-                "reference": "732d8f9d897a136550718a70ed0203812c61fa16",
+                "url": "https://api.github.com/repos/archiprocode/silverstripe-framework/zipball/30ced2afb5196f448d17f49d20c2aff4c5f5c798",
+                "reference": "30ced2afb5196f448d17f49d20c2aff4c5f5c798",
                 "shasum": ""
             },
             "require": {
@@ -6863,7 +6863,7 @@
             "support": {
                 "source": "https://github.com/archiprocode/silverstripe-framework/tree/pulls/5.2/sqlselect-from-alias"
             },
-            "time": "2024-07-25T04:30:25+00:00"
+            "time": "2024-07-25T05:06:45+00:00"
         },
         {
             "name": "silverstripe/graphql",
