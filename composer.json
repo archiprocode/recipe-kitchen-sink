@@ -41,7 +41,8 @@
         "colymba/gridfield-bulk-editing-tools": "4.0.x-dev",
         "tractorcow/silverstripe-fluent": "7.1.x-dev",
         "silverstripe/dynamodb": "5.0.x-dev",
-        "silverstripe/linkfield": "4.0.x-dev"
+        "silverstripe/linkfield": "4.0.x-dev",
+        "silverstripe/framework": "dev-pulls/5.2/sqlselect-from-alias as 5.2.x-dev"
     },
     "require-dev": {
         "silverstripe/frameworktest": "^1",
@@ -67,5 +68,11 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "silerstripe/framework": {
+            "type": "github",
+            "url": "git@github.com:archiprocode/silverstripe-framework.git"
+        }
+    }
 }
